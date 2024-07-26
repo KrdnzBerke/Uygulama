@@ -1,0 +1,14 @@
+C:\Users\karad\source\repos\Uygulama\bin\Debug\net8.0\Uygulama.exe
+C:\Users\karad\source\repos\Uygulama\bin\Debug\net8.0\Uygulama.deps.json
+C:\Users\karad\source\repos\Uygulama\bin\Debug\net8.0\Uygulama.runtimeconfig.json
+C:\Users\karad\source\repos\Uygulama\bin\Debug\net8.0\Uygulama.dll
+C:\Users\karad\source\repos\Uygulama\bin\Debug\net8.0\Uygulama.pdb
+C:\Users\karad\source\repos\Uygulama\obj\Debug\net8.0\Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karad\source\repos\Uygulama\obj\Debug\net8.0\Uygulama.AssemblyInfoInputs.cache
+C:\Users\karad\source\repos\Uygulama\obj\Debug\net8.0\Uygulama.AssemblyInfo.cs
+C:\Users\karad\source\repos\Uygulama\obj\Debug\net8.0\Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\karad\source\repos\Uygulama\obj\Debug\net8.0\Uygulama.dll
+C:\Users\karad\source\repos\Uygulama\obj\Debug\net8.0\refint\Uygulama.dll
+C:\Users\karad\source\repos\Uygulama\obj\Debug\net8.0\Uygulama.pdb
+C:\Users\karad\source\repos\Uygulama\obj\Debug\net8.0\Uygulama.genruntimeconfig.cache
+C:\Users\karad\source\repos\Uygulama\obj\Debug\net8.0\ref\Uygulama.dll
